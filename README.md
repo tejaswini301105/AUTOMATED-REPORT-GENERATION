@@ -203,4 +203,10 @@ Writes the PDF to disK
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/8a7796d8-7fcd-4449-a019-9ca683e07b92)
+
+![Image](https://github.com/user-attachments/assets/ca925664-0317-4ad0-82b6-2fd93c37d67f)
+
+![Image](https://github.com/user-attachments/assets/3e6b35b0-dd52-4581-a274-b5df24aa97e7)
+
 
